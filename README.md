@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-![data](cover/data.jpg)
+![data](cover/data.jpg | height = 150)
 
 1. Rock vs Mine Prediction
    > Logistic Regression | predict rock or mine based on sonar data
