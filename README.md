@@ -2,8 +2,6 @@
 
 ![data](cover/data.jpg)
 
-<img src="cover/data.jpg" height = 250 width = 100%>
-
 1. Rock vs Mine Prediction
    > Logistic Regression | predict rock or mine based on sonar data
 2. Diabetes Prediction
