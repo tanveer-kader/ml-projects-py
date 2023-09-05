@@ -10,3 +10,5 @@
    > NLP, NLTK, Tfidf, Logistic Regression | predict fake news based on author and title.
 5. Loan Status Prediction
    > Support Vector Machine | predict wheather a loan is approved or not based on applicant income, loan amount, credit history, education etc.
+6. Wine Quality Prediction
+   > Random Forest | predict wine quality based on different types of acidity, residual sugar, chlorides, pH, alchohol etc.
