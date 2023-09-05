@@ -1,4 +1,4 @@
-![data](cover/data.jpg)
+![data](cover/cover.jpg)
 
 # Machine Learning Projects
 
