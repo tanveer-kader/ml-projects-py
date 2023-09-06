@@ -1,4 +1,5 @@
-![data](cover/cover.jpg)
+![data](assets/cover/cover.jpg)  
+![pandas](assets/icons/pandas.png) ![sklearn](assets/icons/sklearn.png) ![numpy](assets/icons/numpy.png) ![tensorflow](assets/icons/tensorflow.png) ![keras](assets/icons/keras.png) ![nltk](assets/icons/nltk.png) ![matplotlib](assets/icons/nltk.png)
 
 # Machine Learning Projects
 
