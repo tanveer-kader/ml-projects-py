@@ -1,6 +1,6 @@
 ![data](assets/cover/cover.jpg)
 
-![pandas](assets/icons/pandasbg.png) ![numpy](assets/icons/numpybg.png) ![sklearn](assets/icons/sklearnbg.png) ![tensorflow](assets/icons/tensorflowbg.png) ![keras](assets/icons/keras.png) ![nltk](assets/icons/nltkbg.png) ![matplotlib](assets/icons/matplotlib.png)
+![pandas](assets/icons/pandasbg.png) ![numpy](assets/icons/numpybg.png) ![sklearn](assets/icons/sklearnbg.png) ![tensorflow](assets/icons/tensorflow_bg.png) ![keras](assets/icons/keras.png) ![nltk](assets/icons/nltkbg.png) ![matplotlib](assets/icons/matplotlib.png)
 
 # Machine Learning Projects
 
