@@ -18,3 +18,5 @@
    > Random Forest, Correlation Matrix, Matplotlib, Seaborn (Cat Plot, Bar Plot) | predict wine quality based on different types of acidity, residual sugar, chlorides, pH, alchohol etc.
 7. Car Price Prediction
    > Linear Regression, Lasso Regression, Matplotlib (Scatter Plot) | estimate pre owned car prices by analysing present price, kilometers driven, fuel type, transmission etc.
+8. Breast Cancer Classification
+   > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
