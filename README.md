@@ -11,7 +11,7 @@
 4. Fake News Prediction
    > NLP, NLTK, Tfidf, Logistic Regression | predict fake news based on author and title.
 5. Loan Status Prediction
-   > Support Vector Machine | predict wheather a loan is approved or not based on applicant income, loan amount, credit history, education etc.
+   > Support Vector Machine, Seaborn (Count Plot) | predict wheather a loan is approved or not based on applicant income, loan amount, credit history, education etc.
 6. Wine Quality Prediction
    > Random Forest, Correlation Matrix, Seaborn (Cat Plot, Bar Plot) | predict wine quality based on different types of acidity, residual sugar, chlorides, pH, alchohol etc.
 7. Car Price Prediction
