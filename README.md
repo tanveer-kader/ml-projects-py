@@ -22,3 +22,5 @@
    > Random Forest Regressor, Matplotlib, Seaborn (Heatmap, Distplot/Displot) | predict gold prices from stock value, US oil price, currency pair.
 9. Breast Cancer Classification
    > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
+10. Heart Disease Diagnosis
+    > Logistic Regression, Matplotlib, Seaborn(Count Plot, Heatmap), Correlation Matrix | detect heart disease analysing age, sex, cholesterol, etc.
