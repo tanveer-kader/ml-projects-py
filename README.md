@@ -27,6 +27,6 @@
 
 ---
 
-:-:
 ⭐ Don't forget to leave a star  
-🎁 Use and share these for educational purpose
+🎁 Use and share these for educational purpose  
+:-:
