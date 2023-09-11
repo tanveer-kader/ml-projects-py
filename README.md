@@ -25,5 +25,5 @@
 10. Heart Disease Diagnosis
     > Logistic Regression, Matplotlib, Seaborn(Count Plot, Heatmap), Correlation Matrix | detect heart disease analysing age, sex, cholesterol, etc.
 
-Don't forget to leave a star ⭐  
-🎁 feel free to use and share these for educational purpose
+⭐ Don't forget to leave a star  
+🎁 Use and share these for educational purpose
