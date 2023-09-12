@@ -20,12 +20,14 @@
     > Linear Regression, Lasso Regression, Matplotlib (Scatter Plot) | estimate pre owned car prices by analysing present price, kilometers driven, fuel type, transmission etc.
 8.  Gold Price Prediction
     > Random Forest Regressor, Matplotlib, Seaborn (Heatmap, Distplot/Displot) | predict gold prices from stock value, US oil price, currency pair.
-9.  Breast Cancer Classification
-    > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
-10. Heart Disease Diagnosis
+9.  Heart Disease Diagnosis
     > Logistic Regression, Matplotlib, Seaborn(Count Plot, Heatmap), Correlation Matrix | detect heart disease analysing age, sex, cholesterol, etc.
-11. Handwritten Digits Recongnition
+10. Handwritten Digits Recongnition
     > Image Processing, Tensorflow, Keras, Neural Network (ReLU, softmax), Matplotlib | Recognise Hadwritten digits from images.
+11. Soft Drinks Sells Market Analysis & Prediction
+    > XGB Regressor, Linear Regression, Correlation Matrix, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Heatmap, Barplot) | a detail analysis of soft drinks data that comprises sells(Liters) and temperature that day. It also predicts todays sell based on temperature on that day.
+12. Breast Cancer Classification
+    > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
 
 ---
 
