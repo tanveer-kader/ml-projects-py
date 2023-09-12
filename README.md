@@ -21,11 +21,11 @@
 8.  Gold Price Prediction
     > Random Forest Regressor, Matplotlib, Seaborn (Heatmap, Distplot/Displot) | predict gold prices from stock value, US oil price, currency pair.
 9.  Heart Disease Diagnosis
-    > Logistic Regression, Matplotlib, Seaborn(Count Plot, Heatmap), Correlation Matrix | detect heart disease analysing age, sex, cholesterol, etc.
+    > Logistic Regression, Matplotlib, Seaborn (Count Plot, Heatmap), Correlation Matrix | detect heart disease analysing age, sex, cholesterol, etc.
 10. Handwritten Digits Recongnition
     > Image Processing, Tensorflow, Keras, Neural Network (ReLU, softmax), Matplotlib | Recognise Hadwritten digits from images.
 11. Soft Drinks Sells Market Analysis & Prediction
-    > XGB Regressor, Linear Regression, Correlation Matrix, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Heatmap, Barplot) | a detail analysis of soft drinks data that comprises sells(Liters) and temperature that day. It also predicts todays sell based on temperature on that day.
+    > XGB Regressor, Linear Regression, Correlation Matrix, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Heatmap, Barplot) | a detail analysis of soft drinks data that comprises sells (Liters) and temperature (&deg;C) that day. It also predicts todays sell based on temperature on that day.
 12. Breast Cancer Classification
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
 
