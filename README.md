@@ -25,7 +25,7 @@
 10. Heart Disease Diagnosis
     > Logistic Regression, Matplotlib, Seaborn(Count Plot, Heatmap), Correlation Matrix | detect heart disease analysing age, sex, cholesterol, etc.
 11. Handwritten Digits Recongnition
-    > Image Processing, Tensorflow, Keras, Neural Network (RELU, softmax), Matplotlib | Recognise Hadwritten digits from images.
+    > Image Processing, Tensorflow, Keras, Neural Network (ReLU, softmax), Matplotlib | Recognise Hadwritten digits from images.
 
 ---
 
