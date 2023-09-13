@@ -2,7 +2,7 @@
 
 ![python](assets/icons/python.png) ![pandas](assets/icons/pandasbg.png) ![numpy](assets/icons/numpybg.png) ![sklearn](assets/icons/sklearn_bg.png) ![tensorflow](assets/icons/tensorflowbg.png) ![keras](assets/icons/keras.png) ![nltk](assets/icons/nltk.png) ![matplotlib](assets/icons/matplotlibbg.png) ![seaborn](assets/icons/seaborn.png)
 
-# Kickstart AI journey through Machine Learning and Deep Learning Projects
+# Kickstart AI through Machine Learning and Deep Learning Projects
 
 1.  Rock vs Mine Prediction
     > Logistic Regression | predict rock or mine based on sonar data
