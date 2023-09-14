@@ -26,9 +26,11 @@
     > Image Processing, Tensorflow, Keras, Neural Network (ReLU, softmax), Matplotlib | Recognise Hadwritten digits from images.
 11. Soft Drinks Sells Market Analysis & Prediction
     > XGB Regressor, Linear Regression, Correlation Matrix, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Heatmap, Barplot) | a detail analysis of soft drinks data that comprises sells (Liters) and temperature (&deg;C) that day. It also predicts todays sell based on temperature on that day.
-12. Customer Segmantation
+12. Credit Card Fraud
+    > Logistic Regression, Data Processing, Undersampling | detect fraud transaction based on transaction amount and other credit card information.
+13. Customer Segmantation
     > Unsupervised Learning, KMeans Clustering, Elbow Method, Matplotlib, Seaborn | Group customers based on their annual income and spending havit to make better business decisions.
-13. Breast Cancer Classification
+14. Breast Cancer Classification
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
 
 ---
