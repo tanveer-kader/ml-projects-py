@@ -37,5 +37,5 @@
 
 ---
 
-| ⭐ Don't forget to leave a star | 🎁 Use and share for educational purpose | 🖥️ Happy Machine Learning |
-| :-----------------------------: | :--------------------------------------: | ------------------------- |
+| ⭐ Star this repository | 🎁 Use and share for educational purpose | 🖥️ Happy Machine Learning |
+| :---------------------: | :--------------------------------------: | ------------------------- |
