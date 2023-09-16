@@ -30,7 +30,9 @@
     > Logistic Regression, Data Processing, Undersampling | detect fraud transaction based on transaction amount and other credit card information.
 13. Customer Segmantation
     > Unsupervised Learning, KMeans Clustering, Elbow Method, Matplotlib, Seaborn | Group customers based on their annual income and spending havit to make better business decisions.
-14. Breast Cancer Classification
+14. Medical Insurance Cost Prediction
+    > Linear Regression, Data Processing, Feature Encoding, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Distplot, Countplot) | predicts health insurance cost from sex, age, number of childrens, bmi, smoker or non smoker etc.
+15. Breast Cancer Classification
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
 
 ---
