@@ -4,7 +4,7 @@
 
 ![cover](assets/cover/cover_8.png)
 
-<!-- # Kickstart AI through Machine Learning and Deep Learning Projects -->
+## Project List
 
 1.  Rock vs Mine Prediction
     > Logistic Regression | predict rock or mine based on sonar data
