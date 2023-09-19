@@ -26,7 +26,7 @@
     > Logistic Regression, Matplotlib, Seaborn (Count Plot, Heatmap), Correlation Matrix | detect heart disease analysing age, sex, cholesterol, etc.
 10. Handwritten Digits Recongnition
     > Image Processing, Tensorflow, Keras, Neural Network (ReLU, softmax), Matplotlib | Recognise Hadwritten digits from images.
-11. Soft Drinks Sells Market Analysis & Prediction
+11. Soft Drinks Sales Market Analysis & Prediction
     > XGB Regressor, Linear Regression, Correlation Matrix, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Heatmap, Barplot) | a detail analysis of soft drinks data that comprises sells (Liters) and temperature (&deg;C) that day. It also predicts todays sell based on temperature on that day.
 12. Credit Card Fraud
     > Logistic Regression, Data Processing, Undersampling | detect fraud transaction based on transaction amount and other credit card information.
