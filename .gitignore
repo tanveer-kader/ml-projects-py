@@ -1,0 +1,3 @@
+# Ignore specific CSV files within the "data" folder
+19-Movie-Recommendation-System-V2/movies.csv
+19-Movie-Recommendation-System-V2/ratings.csv
