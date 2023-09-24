@@ -36,7 +36,9 @@
     > Linear Regression, Data Processing, Feature Encoding, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Distplot, Countplot) | predicts health insurance cost from sex, age, number of childrens, bmi, smoker or non smoker etc.
 15. Movie Recommendation System
     > Cosine Similarity, Tf-idf vectorizer, Difflib | Recommands movies that are related to the searched movies, based on some features such as genres, tagline, cast, director etc.
-16. Breast Cancer Classification
+16. Movie Recommendation System V2
+    > Cosine Similarity, Tf-idf vectorizer, widgets | Recommands movies based on the similarity, popularity, more personalised recommendations, making difference between all time popular movies and popularity between similar taste people which makes the recommendation more relatable.
+17. Breast Cancer Classification
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
 
 ---
