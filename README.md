@@ -37,7 +37,7 @@
 15. Movie Recommendation System
     > Cosine Similarity, Tf-idf vectorizer, Difflib | Recommands movies that are related to the searched movies, based on some features such as genres, tagline, cast, director etc.
 16. Movie Recommendation System V2
-    > Cosine Similarity, Tf-idf vectorizer, widgets | Recommands movies based on the similarity, popularity, more personalised recommendations, making difference between all time popular movies and popularity between similar taste people which makes the recommendation more relatable.
+    > Cosine Similarity, Tf-idf vectorizer, widgets | Recommands movies based on the similarity, popularity, more personalised recommendations by analysing ratings, making difference between all time popular movies and popularity amoung similar taste people which makes the recommendation more relatable.
 17. Breast Cancer Classification
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
 
