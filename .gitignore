@@ -1,3 +1,6 @@
 # Ignore specific CSV files within the "data" folder
+
+15-Big-Mart-Sales-Prediction/data/*
+
 19-Movie-Recommendation-System-V2/movies.csv
 19-Movie-Recommendation-System-V2/ratings.csv
