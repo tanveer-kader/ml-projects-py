@@ -34,11 +34,17 @@
     > Unsupervised Learning, KMeans Clustering, Elbow Method, Matplotlib, Seaborn | Group customers based on their annual income and spending havit to make better business decisions.
 14. Medical Insurance Cost Prediction
     > Linear Regression, Data Processing, Feature Encoding, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Distplot, Countplot) | predicts health insurance cost from sex, age, number of childrens, bmi, smoker or non smoker etc.
-15. Movie Recommendation System
+15. Big Mart Sales Prediction
+    > XGBoost, Data Processing (Missing value replacing using mean & mode, Label Encoding), Data Visualisation, Matplotlib, Seaborn (Dis Plot, Count Plot) | Analyse data of a supermarket.
+16. Parkinsons Disease Detection
+    > Support Vector Machine, Data Standardization (Standard Scaler) | detect pakinsons disease from various medical data.
+17. Titanic Survival Prediction
+    > Logistic Regression, Data Processing (Handle missing value using mean & mode), Data Encoding, Matplotlib, Seaborn (Count Plot, Count Plot grouping, Joint Plot, Combined Pie Chart) | Analysis of titanic survival data, predict a person survived or not based measuring passenger class, gender, age etc.
+18. Movie Recommendation System
     > Cosine Similarity, Tf-idf vectorizer, Difflib | Recommands movies that are related to the searched movies, based on some features such as genres, tagline, cast, director etc.
-16. Movie Recommendation System V2
+19. Movie Recommendation System V2
     > Cosine Similarity, Tf-idf vectorizer, widgets | Recommands movies based on the similarity, popularity, more personalised recommendations by analysing ratings, making difference between all time popular movies and popularity amoung similar taste people which makes the recommendation more relatable.
-17. Breast Cancer Classification
+20. Breast Cancer Classification
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
 
 ---
