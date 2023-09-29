@@ -1,11 +1,5 @@
 # List of datasets that have been used in these projects.
 
-> [!NOTE]
-> These datasets are collected from various sources mostly from kaggle.
-
-> [!IMPORTANT]
-> No dataset is claimed to be accurate.
-
 ### Click to follow the links to download the datasets
 
 - [Rock vs Mine](https://drive.google.com/file/d/12jHI9TzuCxQyOjdLnJmsT-LTWZ0PEKI5/view?usp=sharing)
@@ -24,3 +18,9 @@
 - [Titanic Survival Prediction](https://drive.google.com/file/d/1_HzYbbDQ7wZPp6oF8PY4tkbQsH4uyf43/view?usp=sharing)
 - [Movie Recommendation System](https://drive.google.com/file/d/10Sl7Eil46X4ugk1FI270PFzIyViNCDtx/view?usp=sharing)
 - [Movie Recommendation System V2](https://drive.google.com/drive/folders/1Nx35Nb-jRrPBnkZ4xvXrRv4tVtwO3coA?usp=sharing)
+
+> [!NOTE]
+> These datasets are collected from various sources mostly from kaggle.
+
+> [!IMPORTANT]
+> No dataset is claimed to be accurate.
