@@ -1,4 +1,4 @@
-# List of datasets that have been used in the projects.
+# List of datasets that have been used in these projects.
 
 > [!NOTE]
 > These datasets are collected from various sources mostly from kaggle.
