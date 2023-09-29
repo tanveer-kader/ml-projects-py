@@ -1,7 +1,8 @@
 # List of datasets that have been used in the projects.
 
 > [!NOTE]
-> These datasets are collected from various sources mostly from kaggle.  
+> These datasets are collected from various sources mostly from kaggle.
+
 > [!IMPORTANT]
 > No dataset is claimed to be accurate.
 
