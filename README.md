@@ -5,7 +5,7 @@
 ![cover](assets/cover/cover_8.png)
 
 > [!IMPORTANT]  
-> [Datasets are here!](datasets/) 📃
+> [Datasets are here!](datasets/dataset_info.md) 📃
 
 ## Project List
 
