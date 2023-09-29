@@ -5,7 +5,7 @@
 ![cover](assets/cover/cover_8.png)
 
 > [!IMPORTANT]  
-> [Datasets are here!](datasets/dataset_info.md) 📃
+> [Datasets are here!](https://github.com/tanveer-kader/ml-projects-py/blob/main/datasets/dataset_info.md) 📃
 
 ## Project List
 
