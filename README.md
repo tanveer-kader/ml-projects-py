@@ -4,6 +4,9 @@
 
 ![cover](assets/cover/cover_8.png)
 
+> [!IMPORTANT]  
+> [Datasets are here!](datasets/README.md) 📃
+
 ## Project List
 
 1.  Rock vs Mine Prediction
