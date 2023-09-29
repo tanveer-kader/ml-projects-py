@@ -20,7 +20,7 @@
 - [Movie Recommendation System V2](https://drive.google.com/drive/folders/1Nx35Nb-jRrPBnkZ4xvXrRv4tVtwO3coA?usp=sharing)
 
 > [!NOTE]
-> These datasets are collected from various sources mostly from kaggle. Some build in datasets were used which requires no additional links.
+> These datasets are collected from various sources mostly from kaggle. Some build in datasets were used which require no additional links.
 
 > [!IMPORTANT]
 > No dataset is claimed to be accurate.
