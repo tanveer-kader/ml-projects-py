@@ -49,6 +49,8 @@
     > Cosine Similarity, Tf-idf vectorizer, widgets | Recommands movies based on the similarity, popularity, more personalised recommendations by analysing ratings, making difference between all time popular movies and popularity amoung similar taste people which makes the recommendation more relatable.
 20. Breast Cancer Classification
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
+21. Time Series Temperature Forecasting - DL
+    > Tensorflow, Keras, LSTM, Neural Networks (relu, linear), Sequential Model, Optimizers(Adam), Mean Squared Error, Root Mean Squared Error, Matplotlib | Temperature forecasting using NN, LSTM based on Time Series data.
 
 ---
 
