@@ -51,6 +51,8 @@
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
 21. [Time Series Temperature Forecasting - DL](21-DL-Time-Series-Temperature-Forecasting)
     > Tensorflow, Keras, LSTM, Neural Networks (relu, linear), Sequential Model, Optimizers(Adam), Mean Squared Error, Root Mean Squared Error, Matplotlib | Temperature forecasting using NN, LSTM based on Time Series data.
+22. [Multivariate Time Series Weather Forecasting - DL](22-DL-Multivariate-Time-Series-Weather-Forecasting)
+    > Tensorflow, Keras, Neural Networks (LSTM, CNN, GRU), Activation Function (relu, linear), Sequential Model, Optimizers(Adam), Mean Squared Error, Root Mean Squared Error, Matplotlib | Weather forecasting (Temperature, Air Pressure) using different NNs (LSTM, CNN) based on Time Series data.
 
 ---
 
