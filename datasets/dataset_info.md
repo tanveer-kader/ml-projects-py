@@ -19,6 +19,7 @@
 - [Movie Recommendation System](https://drive.google.com/file/d/10Sl7Eil46X4ugk1FI270PFzIyViNCDtx/view?usp=sharing)
 - [Movie Recommendation System V2](https://drive.google.com/drive/folders/1Nx35Nb-jRrPBnkZ4xvXrRv4tVtwO3coA?usp=sharing)
 - [Time Series Temperature Forecasting - DL](https://drive.google.com/file/d/1qP5J62YlQi6975lEQeZnkwxa_D9nNS-d/view?usp=sharing)
+- [Multivariate Time Series Weather Forecasting - DL](https://drive.google.com/file/d/1qP5J62YlQi6975lEQeZnkwxa_D9nNS-d/view?usp=sharing)
 
 > [!NOTE]
 > These datasets are collected from various sources mostly from kaggle. Some build in datasets were used which require no additional links.
