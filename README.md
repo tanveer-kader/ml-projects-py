@@ -4,7 +4,9 @@
 
 ![cover](assets/cover/cover_8.png)
 
-[![GitHub stars](https://img.shields.io/github/stars/tanveer-kader/ml-projects-py?style=flat&label=Stars&color=FFA500)](https://github.com/tanveer-kader/ml-projects-py/stargazers)
+<!-- [![GitHub stars](https://img.shields.io/github/stars/tanveer-kader/ml-projects-py?style=flat&label=Stars&color=FFA500)](https://github.com/tanveer-kader/ml-projects-py/stargazers) -->
+
+[![GitHub stars](https://img.shields.io/github/stars/tanveer-kader/ml-projects-py.svg?style=social)](https://github.com/tanveer-kader/ml-projects-py/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tanveer-kader/ml-projects-py?style=flat&label=Forks&color=1082c3)](https://github.com/tanveer-kader/ml-projects-py/forks)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/tanveer-kader/ml-projects-py?style=flat&label=Issues&color=8957e5)](https://github.com/tanveer-kader/ml-projects-py/issues)
 
