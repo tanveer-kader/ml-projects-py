@@ -4,8 +4,8 @@
 
 ![cover](assets/cover/cover_8.png)
 
-[![GitHub stars](https://img.shields.io/badge/Stars-123-4dc81f?style=flat)](https://github.com/tanveer-kader/ml-projects-py)
-[![GitHub forks](https://img.shields.io/badge/Forks-45-1082c3?style=flat)](https://github.com/tanveer-kader/ml-projects-py)
+[![GitHub stars](https://img.shields.io/github/stars/tanveer-kader/ml-projects-py?style=flat&label=Stars&color=4dc81f)](https://github.com/tanveer-kader/ml-projects-py/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tanveer-kader/ml-projects-py?style=flat&label=Forks&color=1082c3)](https://github.com/tanveer-kader/ml-projects-py/forks)
 
 > [!IMPORTANT]  
 > [Datasets are here!](https://github.com/tanveer-kader/ml-projects-py/blob/main/datasets/dataset_info.md) 🔓
