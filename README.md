@@ -61,6 +61,8 @@
     > Tensorflow, Keras, LSTM, Neural Networks (relu, linear), Sequential Model, Optimizers(Adam), Mean Squared Error, Root Mean Squared Error, Matplotlib | Temperature forecasting using NN, LSTM based on Time Series data.
 22. [Multivariate Time Series Weather Forecasting - DL](22-DL-Multivariate-Time-Series-Weather-Forecasting/Multivariate_Time_Series_Weather_Forecasting.ipynb)
     > Tensorflow, Keras, Neural Networks (LSTM, CNN, GRU), Activation Function (relu, linear), Sequential Model, Optimizers(Adam), Mean Squared Error, Root Mean Squared Error, Matplotlib | Weather forecasting (Temperature, Air Pressure) using different NNs (LSTM, CNN) based on Time Series data.
+23. [Face Mask Detection - DL](23-DL-Face-Mask-Detection/Face_Mask_Detection.ipynb)
+    > Image Processing, Data Scaling, Tensorflow, Keras, Neural Networks (CNN), Dense, Conv2D, Maxpooling2D, Activation Function (relu, sigmoid), Sequential Model, Optimizers(Adam) | mask detection using deep convolutional neural network.
 
 ---
 
