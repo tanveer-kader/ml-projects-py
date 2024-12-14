@@ -64,6 +64,9 @@
 23. [Face Mask Detection - DL](23-DL-Face-Mask-Detection/Face_Mask_Detection.ipynb)
     > Image Processing, Data Scaling, Tensorflow, Keras, Neural Networks (CNN), Dense, Conv2D, Maxpooling2D, Activation Function (relu, sigmoid), Sequential Model, Optimizers(Adam) | mask detection using deep convolutional neural network.
 
+24. [Object Tracking - CV](https://github.com/tanveer-kader/mot-yolo-deepsort)
+    > Tracking, Video Processing, Yolo, DeepSORT.
+
 ---
 
 | ⭐ Star this repository | 🎁 Use and share for educational purpose | 🖥️ Happy Machine Learning |
