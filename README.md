@@ -47,25 +47,26 @@
     > Linear Regression, Data Processing, Feature Encoding, Matplotlib (Scatter Plot, Overlap Plot), Seaborn (Distplot, Countplot) | predicts health insurance cost from sex, age, number of childrens, bmi, smoker or non smoker etc.
 15. [Big Mart Sales Prediction](15-Big-Mart-Sales-Prediction/Supermarket_Sales_Prediction.ipynb)
     > XGBoost, Data Processing (Missing value replacing using mean & mode, Label Encoding), Data Visualisation, Matplotlib, Seaborn (Dis Plot, Count Plot) | Analyse data of a supermarket.
-16. [Parkinsons Disease Detection](16-Parkinsons-Disease-Detection/Parkinsons_Disease_Detection.ipynb)
+16. [Phone Price Segmantation](https://github.com/tanveer-kader/phone-config-predictor)
+    > Random Forest, Support Vector Machine, Correlation Heatmap, Seaborn, Matplotlib, Standard Scaler | Predict low, mid, higher range phones  
+17. [Parkinsons Disease Detection](16-Parkinsons-Disease-Detection/Parkinsons_Disease_Detection.ipynb)
     > Support Vector Machine, Data Standardization (Standard Scaler) | detect pakinsons disease from various medical data.
-17. [Titanic Survival Prediction](17-Titanic-Survival-Prediction/Titanic_Survival_Prediction.ipynb)
+18. [Titanic Survival Prediction](17-Titanic-Survival-Prediction/Titanic_Survival_Prediction.ipynb)
     > Logistic Regression, Data Processing (Handle missing value using mean & mode), Data Encoding, Matplotlib, Seaborn (Count Plot, Count Plot grouping, Joint Plot, Combined Pie Chart) | Analysis of titanic survival data, predict a person survived or not based measuring passenger class, gender, age etc.
-18. [Movie Recommendation System](18-Movie-Recommendation-System/Movie_Recommendation_System.ipynb)
+19. [Movie Recommendation System](18-Movie-Recommendation-System/Movie_Recommendation_System.ipynb)
     > Cosine Similarity, Tf-idf vectorizer, Difflib | Recommands movies that are related to the searched movies, based on some features such as genres, tagline, cast, director etc.
-19. [Movie Recommendation System V2](19-Movie-Recommendation-System-V2/Movie_Recommendation_System_V2.ipynb)
+20. [Movie Recommendation System V2](19-Movie-Recommendation-System-V2/Movie_Recommendation_System_V2.ipynb)
     > Cosine Similarity, Tf-idf vectorizer, widgets | Recommands movies based on the similarity, popularity, more personalised recommendations by analysing ratings, making difference between all time popular movies and popularity amoung similar taste people which makes the recommendation more relatable.
-20. [Breast Cancer Classification - DL](20-DL-Breast-Cancer-Classification/Breast_Cancer_Classification_with_NN.ipynb)
+21. [Breast Cancer Classification - DL](20-DL-Breast-Cancer-Classification/Breast_Cancer_Classification_with_NN.ipynb)
     > Tensorflow, Keras, Matplotlib, Neural Network | a neural network approach to classify breast cancer.
-21. [Time Series Temperature Forecasting - DL](21-DL-Time-Series-Temperature-Forecasting/Time_Series_Temperature_Forcasting.ipynb)
+22. [Time Series Temperature Forecasting - DL](21-DL-Time-Series-Temperature-Forecasting/Time_Series_Temperature_Forcasting.ipynb)
     > Tensorflow, Keras, LSTM, Neural Networks (relu, linear), Sequential Model, Optimizers(Adam), Mean Squared Error, Root Mean Squared Error, Matplotlib | Temperature forecasting using NN, LSTM based on Time Series data.
-22. [Multivariate Time Series Weather Forecasting - DL](22-DL-Multivariate-Time-Series-Weather-Forecasting/Multivariate_Time_Series_Weather_Forecasting.ipynb)
+23. [Multivariate Time Series Weather Forecasting - DL](22-DL-Multivariate-Time-Series-Weather-Forecasting/Multivariate_Time_Series_Weather_Forecasting.ipynb)
     > Tensorflow, Keras, Neural Networks (LSTM, CNN, GRU), Activation Function (relu, linear), Sequential Model, Optimizers(Adam), Mean Squared Error, Root Mean Squared Error, Matplotlib | Weather forecasting (Temperature, Air Pressure) using different NNs (LSTM, CNN) based on Time Series data.
-23. [Face Mask Detection - DL](23-DL-Face-Mask-Detection/Face_Mask_Detection.ipynb)
+24. [Face Mask Detection - DL](23-DL-Face-Mask-Detection/Face_Mask_Detection.ipynb)
     > Image Processing, Data Scaling, Tensorflow, Keras, Neural Networks (CNN), Dense, Conv2D, Maxpooling2D, Activation Function (relu, sigmoid), Sequential Model, Optimizers(Adam) | mask detection using deep convolutional neural network.
-
-24. [Object Tracking - CV](https://github.com/tanveer-kader/mot-yolo-deepsort)
-    > Tracking, Video Processing, Yolo, DeepSORT.
+25. [Object Tracking - CV](https://github.com/tanveer-kader/mot-yolo-deepsort)
+    > Tracking, Video Processing, Yolo, DeepSORT.| Human and Vechicle detection 
 
 ---
 
